@@ -1,4 +1,4 @@
-import calculator.JavaCalculator;
+package calculator;
 public class MagicCalculator {
     public static void main(String[] args) {
         JavaCalculator magicCalculator = new JavaCalculator();
